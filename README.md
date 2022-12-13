@@ -35,14 +35,14 @@ pip install requests
 
 # Usage
 
-使用したいカメラを接続し、自動動作させたい時間をmix.pyで設定します。
+使用したいカメラを接続し、自動動作させたい時間をmix.pyで設定します。<br>
 そして、mix.pyを実行することで動作します。
 
 
 # Note
 
-注意点
-*photo.pyのデバイス設定
-*TwitterのAPIキーの入力
-*画像保存先ファイルの確認
+注意点<br>
+*photo.pyのデバイス設定<br>
+*TwitterのAPIキーの入力<br>
+*画像保存先ファイルの確認<br>
 
