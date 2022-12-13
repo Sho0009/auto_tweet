@@ -6,6 +6,7 @@
 # Requirement
 
 　　動作させるためには下記のライブラリのインストールが必要です。
+ ```
  *Opencv                 4.6.0.66
  *schedule　　              1.1.0
  *oauthlib               3.2.2
@@ -17,7 +18,8 @@
  *glob
  *shutil
  *json
- 
+ ```
+
 
 # Installation
 
@@ -30,10 +32,12 @@ pip install schedule
 pip install requests
 ```
 
+
 # Usage
 
 使用したいカメラを接続し、自動動作させたい時間をmix.pyで設定します。
 そして、mix.pyを実行することで動作します。
+
 
 # Note
 
